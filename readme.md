@@ -22,7 +22,7 @@ A beauty service appointments app
 
 ## :sunglasses: Features
 
-- [ ] - User can create an account.
+- [x] - User can create an account.
 - [ ] - User can login with your account.
 
 ## :computer: Techs
@@ -34,5 +34,7 @@ A beauty service appointments app
 - React-Gesture-Handlers
 - Unform
 - Styled-Components
+- Axios
+- Yup
 
 #### Made with :heart: by martins20 and [RocketSeat](https://rocketseat.com.br) :heart:
