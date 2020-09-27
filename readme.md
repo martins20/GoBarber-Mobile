@@ -22,10 +22,17 @@ A beauty service appointments app
 
 ## :sunglasses: Features
 
-- in Comming ...
+- [ ] - User can create an account.
+- [ ] - User can login with your account.
 
 ## :computer: Techs
 
-- in Comming ...
+- React Native
+- Typescript
+- React-Navigation
+- Stack-Navigation
+- React-Gesture-Handlers
+- Unform
+- Styled-Components
 
 #### Made with :heart: by martins20 and [RocketSeat](https://rocketseat.com.br) :heart:
