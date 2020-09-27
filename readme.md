@@ -5,6 +5,14 @@
 
 A beauty service appointments app
 
+<br/>
+<br/>
+<img src="./gitHub/SignIn.png" alt="SignIn screen" height="650px"/>
+<img src="./gitHub/SignUp.png" alt="SignUp screen" height="650px"/>
+
+<br/>
+<br/>
+
 ## :question: How to run
 
 - Make sure you have [NodeJS](https://nodejs.org/) installed on your machine
