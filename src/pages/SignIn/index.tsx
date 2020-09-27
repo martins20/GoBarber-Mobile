@@ -1,6 +1,10 @@
 import React from 'react';
 import { Image } from 'react-native';
-import { logo } from '../../utils/imgaesExports';
+
+import Input from '../../components/Input';
+import Button from '../../components/Button';
+
+import { logo } from '../../utils/imagesExports';
 
 import { Container, Title } from './styles';
 
@@ -10,6 +14,12 @@ const SignIn: React.FC = () => {
       <Image source={logo} />
 
       <Title>Faça seu Logon</Title>
+
+      <Input name="email" icon="mail" placeholder="E-mail" />
+
+      <Input name="password" icon="lock" placeholder="Senha" />
+
+      <Button onPress={() => console.log('Foi')}>Entrar</Button>
     </Container>
   );
 };
