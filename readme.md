@@ -7,8 +7,8 @@ A beauty service appointments app
 
 <br/>
 <br/>
-<img src="./gitHub/SignIn.png" alt="SignIn screen" height="650px"/>
-<img src="./gitHub/SignUp.png" alt="SignUp screen" height="650px"/>
+<img src="./gitHub/SignIn.gif" alt="SignIn screen" height="650px"/>
+<img src="./gitHub/SignUp.gif" alt="SignUp screen" height="650px"/>
 
 <br/>
 <br/>
@@ -23,7 +23,7 @@ A beauty service appointments app
 ## :sunglasses: Features
 
 - [x] - User can create an account.
-- [ ] - User can login with your account.
+- [x] - User can login with your account.
 
 ## :computer: Techs
 
